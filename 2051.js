@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrowser_extension_wallet=self.webpackChunkbrowser_extension_wallet||[]).push([["2051"],{19597:function(e){e.exports=function(){throw Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}}}]);
